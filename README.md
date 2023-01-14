@@ -2,7 +2,7 @@
 A quick contribution for [Processing Community Day 2023](https://pcd.fba.up.pt/2023/)
 from behalf of [Inércia Productions](https://www.pouet.net/groups.php?which=3598)
 
-{% include youtube.html id="JLMbpiywVxQ" %}
+{% include youtube.html id="Srv4zc3Ms7k" %}
 
 ## What is it?
 A recode in [Processing](https://processing.org/) of the [512b Pico-8 effect](https://psenough.itch.io/pico-8-512b-inercia-invitation) originally submitted to the [Pico-8 1k Jam 2022](https://itch.io/jam/pico-1k-2022), made for the purpose of inviting Pico-8 developers to participate at Inércia Demoparty 2022 (and on it's [Fantasy Console 512b competition](https://demozoo.org/parties/4406/#competition_17510) in particular).
