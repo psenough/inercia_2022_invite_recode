@@ -2,6 +2,9 @@
 A quick contribution for [Processing Community Day 2023](https://pcd.fba.up.pt/2023/)
 from behalf of [Inércia Productions](https://www.pouet.net/groups.php?which=3598)
 
+
+[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLMbpiywVxQ)
+
 [![Youtube capture]
 (https://img.youtube.com/vi/Srv4zc3Ms7k/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=Srv4zc3Ms7k)
